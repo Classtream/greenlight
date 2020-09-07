@@ -1,3 +1,6 @@
+git pull upstream master
+git push origin master
+
 # Greenlight
 
 ![Travis CI](https://travis-ci.org/bigbluebutton/greenlight.svg?branch=master)
