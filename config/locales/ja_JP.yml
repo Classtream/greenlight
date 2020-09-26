@@ -210,7 +210,7 @@ ja_JP:
         username: ユーザ名
       title: ユーザ管理
   add_to_google_calendar: "Googleカレンダーに追加"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Classtream
   bigbluebutton_exception: 会議を開始するときにエラーが発生しました！
   cancel: キャンセル
   cookies:
