@@ -160,7 +160,7 @@ th:
         username: ชื่อผู้ใช้
       title: จัดการบัญชีผู้ใช้
   add_to_google_calendar: "เพิ่มลงในปฎิทิน Google"
-  bigbluebutton: ONE Conference
+  bigbluebutton: Classtream
   bigbluebutton_exception: เกิดข้อผิดพลาดในการเริ่มการประชุม!
   cancel: ยกเลิก
   cookies:
