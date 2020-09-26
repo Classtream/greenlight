@@ -177,7 +177,7 @@ it:
         username: Nome utente
       title: Gestisci utenti
   add_to_google_calendar: "Aggiungi a Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Classtream
   bigbluebutton_exception: "Oops, c'è stato un errore nell'avvio del meeting!"
   cancel: Annulla
   cookies:
